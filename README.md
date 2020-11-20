@@ -5,7 +5,8 @@
 ----------------------
 
 > # How Does it Work?
-> * Download The Release file unzip it.
+> * Download The Release file and unzip it. 
+> * https://github.com/0xyg3n/FivemAntiCrashDump/releases/tag/1.0
 > * Simply provide the FiveM Crash Path in the config file.
 > ![Config Screenshot](https://i.imgur.com/kSFwSVD.png)
 >
