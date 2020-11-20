@@ -1,0 +1,7 @@
+C:\Users\dev\Downloads\ProcessDaemon-master\ProcessDaemon-master\ProcessDaemon\obj\Debug\ProcessDaemon.csproj.CoreCompileInputs.cache
+C:\Users\dev\Downloads\ProcessDaemon-master\ProcessDaemon-master\ProcessDaemon\bin\Debug\FivemAntiCrashDump.exe.config
+C:\Users\dev\Downloads\ProcessDaemon-master\ProcessDaemon-master\ProcessDaemon\bin\Debug\FivemAntiCrashDump.exe
+C:\Users\dev\Downloads\ProcessDaemon-master\ProcessDaemon-master\ProcessDaemon\bin\Debug\FivemAntiCrashDump.pdb
+C:\Users\dev\Downloads\ProcessDaemon-master\ProcessDaemon-master\ProcessDaemon\obj\Debug\ProcessDaemon.csprojAssemblyReference.cache
+C:\Users\dev\Downloads\ProcessDaemon-master\ProcessDaemon-master\ProcessDaemon\obj\Debug\FivemAntiCrashDump.exe
+C:\Users\dev\Downloads\ProcessDaemon-master\ProcessDaemon-master\ProcessDaemon\obj\Debug\FivemAntiCrashDump.pdb
