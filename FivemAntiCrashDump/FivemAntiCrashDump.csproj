@@ -7,7 +7,7 @@
     <ProjectGuid>{8C9FCB2D-D585-4074-8C84-22788D4F7750}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>FivemAntiCrashDump</RootNamespace>
-    <AssemblyName>FivemAntiCrashDump</AssemblyName>
+    <AssemblyName>FiveM-AntiCrashDump</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -38,6 +38,9 @@
   <PropertyGroup>
     <StartupObject />
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
@@ -61,7 +64,8 @@
     <Compile Include="Settings.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="app.config" />
+    <None Include="app.manifest" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

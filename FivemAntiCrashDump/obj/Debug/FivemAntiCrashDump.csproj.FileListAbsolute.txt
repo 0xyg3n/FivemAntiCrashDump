@@ -1,0 +1,6 @@
+C:\Users\Dev\Documents\GitHub\FivemAntiCrashDump\FivemAntiCrashDump\bin\Debug\FiveM-AntiCrashDump.exe.config
+C:\Users\Dev\Documents\GitHub\FivemAntiCrashDump\FivemAntiCrashDump\bin\Debug\FiveM-AntiCrashDump.exe
+C:\Users\Dev\Documents\GitHub\FivemAntiCrashDump\FivemAntiCrashDump\bin\Debug\FiveM-AntiCrashDump.pdb
+C:\Users\Dev\Documents\GitHub\FivemAntiCrashDump\FivemAntiCrashDump\obj\Debug\FivemAntiCrashDump.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Documents\GitHub\FivemAntiCrashDump\FivemAntiCrashDump\obj\Debug\FiveM-AntiCrashDump.exe
+C:\Users\Dev\Documents\GitHub\FivemAntiCrashDump\FivemAntiCrashDump\obj\Debug\FiveM-AntiCrashDump.pdb
